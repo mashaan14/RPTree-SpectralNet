@@ -1,6 +1,6 @@
 # RPTree
 
-## 	The Effect of Points Dispersion on the k-nn Search in Random Projection Forests
+## 	Random projection tree similarity metric for SpectralNet
 This is an implementation for the following paper:
 ```
 @article{ALSHAMMARI2023100274,
