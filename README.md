@@ -1,8 +1,11 @@
-# RPTree
+# Random projection tree similarity metric for SpectralNet
 
-## 	Random projection tree similarity metric for SpectralNet
+[![DOI](http://img.shields.io/badge/doi-10.1016/j.array.2022.100274-36648B.svg)](https://doi.org/10.1016/j.array.2022.100274)
+[![Paper](http://img.shields.io/badge/arXiv-2302.13168-b31b1b.svg)](https://arxiv.org/abs/2302.13168)
+[![Papers with Code](http://img.shields.io/badge/PaperswithCode-2302.13168-21cbce.svg)](https://paperswithcode.com/paper/random-projection-tree-similarity-metric-for)
+
 This is an implementation for the following paper:
-```
+```bibtex
 @article{ALSHAMMARI2023100274,
 	title = {Random projection tree similarity metric for SpectralNet},
 	journal = {Array},
@@ -36,7 +39,5 @@ This is an implementation for the following paper:
 We reused the [repository](https://github.com/KlugerLab/SpectralNet) provided with the SpectralNet paper.
 
 ---
-Provided by Mashaan Alshammari<br/>
-mashaan14 at gmail dot com<br/>
-mashaan dot awad at outlook dot com<br/>
+written by [Mashaan Alshammari](https://mashaan14.github.io/mashaan/)<br/>
 September 11, 2022.
