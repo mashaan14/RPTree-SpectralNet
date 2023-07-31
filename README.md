@@ -7,10 +7,10 @@
 This is an implementation for the following paper:
 ```bibtex
 @article{ALSHAMMARI2023100274,
-	title = {Random projection tree similarity metric for SpectralNet},
-	journal = {Array},
+	title = {Random projection tree similarity metric for SpectralNet},	
 	volume = {17},
 	year = {2023},
+	journal = {Array},
 	doi = {https://doi.org/10.1016/j.array.2022.100274},
 	author = {Mashaan Alshammari and John Stavrakakis and Adel F. Ahmed and Masahiro Takatsuka}
 }	
