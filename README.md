@@ -36,8 +36,4 @@ This is an implementation for the following paper:
 
 ## Code Acknowledgement
 
-We reused the [repository](https://github.com/KlugerLab/SpectralNet) provided with the SpectralNet paper.
-
----
-written by [Mashaan Alshammari](https://mashaan14.github.io/mashaan/)<br/>
-September 11, 2022.
+I reused some of the code from the [repository](https://github.com/KlugerLab/SpectralNet) provided with the SpectralNet paper.
